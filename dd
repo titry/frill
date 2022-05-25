@@ -1,0 +1,3 @@
+$ git branch$
+git branch /*b_test*/
+$ git switch /*b_test*/
