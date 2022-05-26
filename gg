@@ -1,0 +1,2 @@
+#edge의타입따라서도로에대한색깔다르게표시하기
+hwy_colors='footway':'skyblue','residential':'paleturquoise','cycleway’:lightgreen','service':'sienna','livingstreet':’orange','secondary':'black','pedestrian':'lightskyblue'}
