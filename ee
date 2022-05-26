@@ -1,0 +1,5 @@
+#download/modelastreetnetworkforsomecitythenvisualizeit
+
+place="Saha-gu,Busan,Korea"
+G=ox.graph_from_place(place,network_type="drive")
+fig,ax=ox.plot_graph(G
